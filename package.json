@@ -1,5 +1,5 @@
 {
-  "name": "object-to-query-string",
+  "name": "@ramumb/object-to-query-string",
   "version": "0.1.0",
   "description": "Turns an object into its URL-encoded query string representation.",
   "main": "index.js",

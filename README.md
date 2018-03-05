@@ -4,7 +4,7 @@ object-to-query-string(object)
 This is a port of the [PrototypeJS](http://prototypejs.org/) method
 `toQueryString`. It turns an object into its URL-encoded query string
 representation.  There's an inverse of this method called `toQueryParams` that's
-available at string-to-query-params(https://github.com/ramumb/string-to-query-params).
+available at [string-to-query-params](https://github.com/ramumb/string-to-query-params).
 
 `object-to-query-string` is a form of serialization, and is mostly useful to
 provide complex parameter sets for stuff such as objects related to Ajax.
@@ -21,7 +21,7 @@ Note that undefined will be returned for any non- object parameter.
 
 ## Installation
 
-  `npm install object-to-query-string`
+  `npm install @ramumb/object-to-query-string`
 
 ## Usage
 
