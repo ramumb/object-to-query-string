@@ -1,6 +1,9 @@
 object-to-query-string(object)
 ========================================
 
+[![Build Status](https://travis-ci.org/ramumb/object-to-query-string.svg?branch=master)](https://travis-ci.org/ramumb/object-to-query-string)
+[![Coverage Status](https://coveralls.io/repos/github/ramumb/object-to-query-string/badge.svg?branch=master)](https://coveralls.io/github/ramumb/object-to-query-string?branch=master)
+
 This is a port of the [PrototypeJS](http://prototypejs.org/) method
 `toQueryString`. It turns an object into its URL-encoded query string
 representation.  There's an inverse of this method called `toQueryParams` that's
